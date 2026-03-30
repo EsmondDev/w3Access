@@ -1,0 +1,783 @@
+{
+  "data": [
+    {
+      "app_name": "w3Ghana",
+      "app_details": "0000 on w3Studio",
+      "app_logo": "https://git.esmond.dev/logo.png",
+      "app_banner": "https://git.esmond.dev/banner.png",
+      "app_update": "https://play.google.com/store/apps/details?id=com.w3ghana.apps",
+      "app_version": 1,
+      "app_group": "group",
+      "app_base": [
+        {
+          "base_name": "00:00 flyers",
+          "base_details": "00:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0000/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0000/banner.png",
+          "base_start": "00:00 am",
+          "base_end": "00:01 am"
+        },
+        {
+          "base_name": "00:15 flyers",
+          "base_details": "00:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0015/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0015/banner.png",
+          "base_start": "00:15 am",
+          "base_end": "00:16 am"
+        },
+        {
+          "base_name": "00:30 flyers",
+          "base_details": "00:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0030/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0030/banner.png",
+          "base_start": "00:30 am",
+          "base_end": "00:31 am"
+        },
+        {
+          "base_name": "00:45 flyers",
+          "base_details": "00:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0045/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0045/banner.png",
+          "base_start": "00:45 am",
+          "base_end": "00:46 am"
+        },
+        {
+          "base_name": "01:00 flyers",
+          "base_details": "01:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0100/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0100/banner.png",
+          "base_start": "01:00 am",
+          "base_end": "01:01 am"
+        },
+        {
+          "base_name": "01:15 flyers",
+          "base_details": "01:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0115/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0115/banner.png",
+          "base_start": "01:15 am",
+          "base_end": "01:16 am"
+        },
+        {
+          "base_name": "01:30 flyers",
+          "base_details": "01:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0130/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0130/banner.png",
+          "base_start": "01:30 am",
+          "base_end": "01:31 am"
+        },
+        {
+          "base_name": "01:45 flyers",
+          "base_details": "01:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0145/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0145/banner.png",
+          "base_start": "01:45 am",
+          "base_end": "01:46 am"
+        },
+        {
+          "base_name": "02:00 flyers",
+          "base_details": "02:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0200/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0200/banner.png",
+          "base_start": "02:00 am",
+          "base_end": "02:01 am"
+        },
+        {
+          "base_name": "02:15 flyers",
+          "base_details": "02:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0215/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0215/banner.png",
+          "base_start": "02:15 am",
+          "base_end": "02:16 am"
+        },
+        {
+          "base_name": "02:30 flyers",
+          "base_details": "02:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0230/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0230/banner.png",
+          "base_start": "02:30 am",
+          "base_end": "02:31 am"
+        },
+        {
+          "base_name": "02:45 flyers",
+          "base_details": "02:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0245/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0245/banner.png",
+          "base_start": "02:45 am",
+          "base_end": "02:46 am"
+        },
+        {
+          "base_name": "03:00 flyers",
+          "base_details": "03:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0300/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0300/banner.png",
+          "base_start": "03:00 am",
+          "base_end": "03:01 am"
+        },
+        {
+          "base_name": "03:15 flyers",
+          "base_details": "03:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0315/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0315/banner.png",
+          "base_start": "03:15 am",
+          "base_end": "03:16 am"
+        },
+        {
+          "base_name": "03:30 flyers",
+          "base_details": "03:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0330/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0330/banner.png",
+          "base_start": "03:30 am",
+          "base_end": "03:31 am"
+        },
+        {
+          "base_name": "03:45 flyers",
+          "base_details": "03:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0345/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0345/banner.png",
+          "base_start": "03:45 am",
+          "base_end": "03:46 am"
+        },
+        {
+          "base_name": "04:00 flyers",
+          "base_details": "04:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0400/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0400/banner.png",
+          "base_start": "04:00 am",
+          "base_end": "04:01 am"
+        },
+        {
+          "base_name": "04:15 flyers",
+          "base_details": "04:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0415/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0415/banner.png",
+          "base_start": "04:15 am",
+          "base_end": "04:16 am"
+        },
+        {
+          "base_name": "04:30 flyers",
+          "base_details": "04:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0430/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0430/banner.png",
+          "base_start": "04:30 am",
+          "base_end": "04:31 am"
+        },
+        {
+          "base_name": "04:45 flyers",
+          "base_details": "04:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0445/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0445/banner.png",
+          "base_start": "04:45 am",
+          "base_end": "04:46 am"
+        },
+        {
+          "base_name": "05:00 flyers",
+          "base_details": "05:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0500/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0500/banner.png",
+          "base_start": "05:00 am",
+          "base_end": "05:01 am"
+        },
+        {
+          "base_name": "05:15 flyers",
+          "base_details": "05:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0515/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0515/banner.png",
+          "base_start": "05:15 am",
+          "base_end": "05:16 am"
+        },
+        {
+          "base_name": "05:30 flyers",
+          "base_details": "05:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0530/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0530/banner.png",
+          "base_start": "05:30 am",
+          "base_end": "05:31 am"
+        },
+        {
+          "base_name": "05:45 flyers",
+          "base_details": "05:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0545/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0545/banner.png",
+          "base_start": "05:45 am",
+          "base_end": "05:46 am"
+        },
+        {
+          "base_name": "06:00 flyers",
+          "base_details": "06:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0600/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0600/banner.png",
+          "base_start": "06:00 am",
+          "base_end": "06:01 am"
+        },
+        {
+          "base_name": "06:15 flyers",
+          "base_details": "06:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0615/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0615/banner.png",
+          "base_start": "06:15 am",
+          "base_end": "06:16 am"
+        },
+        {
+          "base_name": "06:30 flyers",
+          "base_details": "06:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0630/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0630/banner.png",
+          "base_start": "06:30 am",
+          "base_end": "06:31 am"
+        },
+        {
+          "base_name": "06:45 flyers",
+          "base_details": "06:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0645/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0645/banner.png",
+          "base_start": "06:45 am",
+          "base_end": "06:46 am"
+        },
+        {
+          "base_name": "07:00 flyers",
+          "base_details": "07:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0700/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0700/banner.png",
+          "base_start": "07:00 am",
+          "base_end": "07:01 am"
+        },
+        {
+          "base_name": "07:15 flyers",
+          "base_details": "07:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0715/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0715/banner.png",
+          "base_start": "07:15 am",
+          "base_end": "07:16 am"
+        },
+        {
+          "base_name": "07:30 flyers",
+          "base_details": "07:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0730/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0730/banner.png",
+          "base_start": "07:30 am",
+          "base_end": "07:31 am"
+        },
+        {
+          "base_name": "07:45 flyers",
+          "base_details": "07:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0745/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0745/banner.png",
+          "base_start": "07:45 am",
+          "base_end": "07:46 am"
+        },
+        {
+          "base_name": "08:00 flyers",
+          "base_details": "08:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0800/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0800/banner.png",
+          "base_start": "08:00 am",
+          "base_end": "08:01 am"
+        },
+        {
+          "base_name": "08:15 flyers",
+          "base_details": "08:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0815/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0815/banner.png",
+          "base_start": "08:15 am",
+          "base_end": "08:16 am"
+        },
+        {
+          "base_name": "08:30 flyers",
+          "base_details": "08:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0830/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0830/banner.png",
+          "base_start": "08:30 am",
+          "base_end": "08:31 am"
+        },
+        {
+          "base_name": "08:45 flyers",
+          "base_details": "08:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0845/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0845/banner.png",
+          "base_start": "08:45 am",
+          "base_end": "08:46 am"
+        },
+        {
+          "base_name": "09:00 flyers",
+          "base_details": "09:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0900/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0900/banner.png",
+          "base_start": "09:00 am",
+          "base_end": "09:01 am"
+        },
+        {
+          "base_name": "09:15 flyers",
+          "base_details": "09:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0915/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0915/banner.png",
+          "base_start": "09:15 am",
+          "base_end": "09:16 am"
+        },
+        {
+          "base_name": "09:30 flyers",
+          "base_details": "09:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0930/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0930/banner.png",
+          "base_start": "09:30 am",
+          "base_end": "09:31 am"
+        },
+        {
+          "base_name": "09:45 flyers",
+          "base_details": "09:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/0945/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/0945/banner.png",
+          "base_start": "09:45 am",
+          "base_end": "09:46 am"
+        },
+        {
+          "base_name": "10:00 flyers",
+          "base_details": "10:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1000/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1000/banner.png",
+          "base_start": "10:00 am",
+          "base_end": "10:01 am"
+        },
+        {
+          "base_name": "10:15 flyers",
+          "base_details": "10:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1015/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1015/banner.png",
+          "base_start": "10:15 am",
+          "base_end": "10:16 am"
+        },
+        {
+          "base_name": "10:30 flyers",
+          "base_details": "10:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1030/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1030/banner.png",
+          "base_start": "10:30 am",
+          "base_end": "10:31 am"
+        },
+        {
+          "base_name": "10:45 flyers",
+          "base_details": "10:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1045/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1045/banner.png",
+          "base_start": "10:45 am",
+          "base_end": "10:46 am"
+        },
+        {
+          "base_name": "11:00 flyers",
+          "base_details": "11:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1100/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1100/banner.png",
+          "base_start": "11:00 am",
+          "base_end": "11:01 am"
+        },
+        {
+          "base_name": "11:15 flyers",
+          "base_details": "11:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1115/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1115/banner.png",
+          "base_start": "11:15 am",
+          "base_end": "11:16 am"
+        },
+        {
+          "base_name": "11:30 flyers",
+          "base_details": "11:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1130/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1130/banner.png",
+          "base_start": "11:30 am",
+          "base_end": "11:31 am"
+        },
+        {
+          "base_name": "11:45 flyers",
+          "base_details": "11:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1145/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1145/banner.png",
+          "base_start": "11:45 am",
+          "base_end": "11:46 am"
+        },
+        {
+          "base_name": "12:00 flyers",
+          "base_details": "12:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1200/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1200/banner.png",
+          "base_start": "12:00 pm",
+          "base_end": "12:01 pm"
+        },
+        {
+          "base_name": "12:15 flyers",
+          "base_details": "12:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1215/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1215/banner.png",
+          "base_start": "12:15 pm",
+          "base_end": "12:16 pm"
+        },
+        {
+          "base_name": "12:30 flyers",
+          "base_details": "12:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1230/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1230/banner.png",
+          "base_start": "12:30 pm",
+          "base_end": "12:31 pm"
+        },
+        {
+          "base_name": "12:45 flyers",
+          "base_details": "12:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1245/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1245/banner.png",
+          "base_start": "12:45 pm",
+          "base_end": "12:46 pm"
+        },
+        {
+          "base_name": "13:00 flyers",
+          "base_details": "13:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1300/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1300/banner.png",
+          "base_start": "13:00 pm",
+          "base_end": "13:01 pm"
+        },
+        {
+          "base_name": "13:15 flyers",
+          "base_details": "13:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1315/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1315/banner.png",
+          "base_start": "13:15 pm",
+          "base_end": "13:16 pm"
+        },
+        {
+          "base_name": "13:30 flyers",
+          "base_details": "13:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1330/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1330/banner.png",
+          "base_start": "13:30 pm",
+          "base_end": "13:31 pm"
+        },
+        {
+          "base_name": "13:45 flyers",
+          "base_details": "13:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1345/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1345/banner.png",
+          "base_start": "13:45 pm",
+          "base_end": "13:46 pm"
+        },
+        {
+          "base_name": "14:00 flyers",
+          "base_details": "14:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1400/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1400/banner.png",
+          "base_start": "14:00 pm",
+          "base_end": "14:01 pm"
+        },
+        {
+          "base_name": "14:15 flyers",
+          "base_details": "14:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1415/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1415/banner.png",
+          "base_start": "14:15 pm",
+          "base_end": "14:16 pm"
+        },
+        {
+          "base_name": "14:30 flyers",
+          "base_details": "14:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1430/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1430/banner.png",
+          "base_start": "14:30 pm",
+          "base_end": "14:31 pm"
+        },
+        {
+          "base_name": "14:45 flyers",
+          "base_details": "14:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1445/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1445/banner.png",
+          "base_start": "14:45 pm",
+          "base_end": "14:46 pm"
+        },
+        {
+          "base_name": "15:00 flyers",
+          "base_details": "15:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1500/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1500/banner.png",
+          "base_start": "15:00 pm",
+          "base_end": "15:01 pm"
+        },
+        {
+          "base_name": "15:15 flyers",
+          "base_details": "15:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1515/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1515/banner.png",
+          "base_start": "15:15 pm",
+          "base_end": "15:16 pm"
+        },
+        {
+          "base_name": "15:30 flyers",
+          "base_details": "15:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1530/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1530/banner.png",
+          "base_start": "15:30 pm",
+          "base_end": "15:31 pm"
+        },
+        {
+          "base_name": "15:45 flyers",
+          "base_details": "15:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1545/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1545/banner.png",
+          "base_start": "15:45 pm",
+          "base_end": "15:46 pm"
+        },
+        {
+          "base_name": "16:00 flyers",
+          "base_details": "16:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1600/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1600/banner.png",
+          "base_start": "16:00 pm",
+          "base_end": "16:01 pm"
+        },
+        {
+          "base_name": "16:15 flyers",
+          "base_details": "16:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1615/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1615/banner.png",
+          "base_start": "16:15 pm",
+          "base_end": "16:16 pm"
+        },
+        {
+          "base_name": "16:30 flyers",
+          "base_details": "16:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1630/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1630/banner.png",
+          "base_start": "16:30 pm",
+          "base_end": "16:31 pm"
+        },
+        {
+          "base_name": "16:45 flyers",
+          "base_details": "16:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1645/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1645/banner.png",
+          "base_start": "16:45 pm",
+          "base_end": "16:46 pm"
+        },
+        {
+          "base_name": "17:00 flyers",
+          "base_details": "17:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1700/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1700/banner.png",
+          "base_start": "17:00 pm",
+          "base_end": "17:01 pm"
+        },
+        {
+          "base_name": "17:15 flyers",
+          "base_details": "17:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1715/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1715/banner.png",
+          "base_start": "17:15 pm",
+          "base_end": "17:16 pm"
+        },
+        {
+          "base_name": "17:30 flyers",
+          "base_details": "17:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1730/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1730/banner.png",
+          "base_start": "17:30 pm",
+          "base_end": "17:31 pm"
+        },
+        {
+          "base_name": "17:45 flyers",
+          "base_details": "17:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1745/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1745/banner.png",
+          "base_start": "17:45 pm",
+          "base_end": "17:46 pm"
+        },
+        {
+          "base_name": "18:00 flyers",
+          "base_details": "18:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1800/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1800/banner.png",
+          "base_start": "18:00 pm",
+          "base_end": "18:01 pm"
+        },
+        {
+          "base_name": "18:15 flyers",
+          "base_details": "18:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1815/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1815/banner.png",
+          "base_start": "18:15 pm",
+          "base_end": "18:16 pm"
+        },
+        {
+          "base_name": "18:30 flyers",
+          "base_details": "18:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1830/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1830/banner.png",
+          "base_start": "18:30 pm",
+          "base_end": "18:31 pm"
+        },
+        {
+          "base_name": "18:45 flyers",
+          "base_details": "18:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1845/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1845/banner.png",
+          "base_start": "18:45 pm",
+          "base_end": "18:46 pm"
+        },
+        {
+          "base_name": "19:00 flyers",
+          "base_details": "19:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1900/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1900/banner.png",
+          "base_start": "19:00 pm",
+          "base_end": "19:01 pm"
+        },
+        {
+          "base_name": "19:15 flyers",
+          "base_details": "19:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1915/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1915/banner.png",
+          "base_start": "19:15 pm",
+          "base_end": "19:16 pm"
+        },
+        {
+          "base_name": "19:30 flyers",
+          "base_details": "19:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1930/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1930/banner.png",
+          "base_start": "19:30 pm",
+          "base_end": "19:31 pm"
+        },
+        {
+          "base_name": "19:45 flyers",
+          "base_details": "19:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/1945/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/1945/banner.png",
+          "base_start": "19:45 pm",
+          "base_end": "19:46 pm"
+        },
+        {
+          "base_name": "20:00 flyers",
+          "base_details": "20:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2000/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2000/banner.png",
+          "base_start": "20:00 pm",
+          "base_end": "20:01 pm"
+        },
+        {
+          "base_name": "20:15 flyers",
+          "base_details": "20:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2015/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2015/banner.png",
+          "base_start": "20:15 pm",
+          "base_end": "20:16 pm"
+        },
+        {
+          "base_name": "20:30 flyers",
+          "base_details": "20:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2030/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2030/banner.png",
+          "base_start": "20:30 pm",
+          "base_end": "20:31 pm"
+        },
+        {
+          "base_name": "20:45 flyers",
+          "base_details": "20:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2045/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2045/banner.png",
+          "base_start": "20:45 pm",
+          "base_end": "20:46 pm"
+        },
+        {
+          "base_name": "21:00 flyers",
+          "base_details": "21:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2100/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2100/banner.png",
+          "base_start": "21:00 pm",
+          "base_end": "21:01 pm"
+        },
+        {
+          "base_name": "21:15 flyers",
+          "base_details": "21:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2115/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2115/banner.png",
+          "base_start": "21:15 pm",
+          "base_end": "21:16 pm"
+        },
+        {
+          "base_name": "21:30 flyers",
+          "base_details": "21:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2130/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2130/banner.png",
+          "base_start": "21:30 pm",
+          "base_end": "21:31 pm"
+        },
+        {
+          "base_name": "21:45 flyers",
+          "base_details": "21:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2145/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2145/banner.png",
+          "base_start": "21:45 pm",
+          "base_end": "21:46 pm"
+        },
+        {
+          "base_name": "22:00 flyers",
+          "base_details": "22:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2200/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2200/banner.png",
+          "base_start": "22:00 pm",
+          "base_end": "22:01 pm"
+        },
+        {
+          "base_name": "22:15 flyers",
+          "base_details": "22:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2215/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2215/banner.png",
+          "base_start": "22:15 pm",
+          "base_end": "22:16 pm"
+        },
+        {
+          "base_name": "22:30 flyers",
+          "base_details": "22:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2230/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2230/banner.png",
+          "base_start": "22:30 pm",
+          "base_end": "22:31 pm"
+        },
+        {
+          "base_name": "22:45 flyers",
+          "base_details": "22:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2245/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2245/banner.png",
+          "base_start": "22:45 pm",
+          "base_end": "22:46 pm"
+        },
+        {
+          "base_name": "23:00 flyers",
+          "base_details": "23:00 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2300/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2300/banner.png",
+          "base_start": "23:00 pm",
+          "base_end": "23:01 pm"
+        },
+        {
+          "base_name": "23:15 flyers",
+          "base_details": "23:15 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2315/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2315/banner.png",
+          "base_start": "23:15 pm",
+          "base_end": "23:16 pm"
+        },
+        {
+          "base_name": "23:30 flyers",
+          "base_details": "23:30 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2330/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2330/banner.png",
+          "base_start": "23:30 pm",
+          "base_end": "23:31 pm"
+        },
+        {
+          "base_name": "23:45 flyers",
+          "base_details": "23:45 on w3Studio",
+          "base_logo": "https://git.esmond.dev/flyers/2345/logo.png",
+          "base_banner": "https://git.esmond.dev/flyers/2345/banner.png",
+          "base_start": "23:45 pm",
+          "base_end": "23:46 pm"
+        }
+      ]
+    }
+  ]
+}
